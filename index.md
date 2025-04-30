@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Merkle Pay"
   text: "Easily accept global crypto payments"
-  tagline: Effortless setup. Direct to your wallet.
+  tagline: Effortless setup. Direct to your own wallet.
   actions:
     - theme: brand
       text: Markdown Examples
