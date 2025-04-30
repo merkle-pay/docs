@@ -8,11 +8,8 @@ hero:
   tagline: Effortless setup. Direct to your own wallet.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Getting started
+      link: /getting-started
 
 features:
   - title: Feature A

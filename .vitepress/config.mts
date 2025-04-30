@@ -7,17 +7,14 @@ export default defineConfig({
     "Easily accept global crypto payments (USDC/USDT) on Solana, Base & Polygon with Merkle Pay. The non-custodial solution for creators, indie hackers & small businesses.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
-    ],
+    nav: [{ text: "Home", link: "/" }],
 
     sidebar: [
       {
-        text: "Examples",
+        text: "Documentation",
         items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          { text: "Introduction", link: "/introduction" },
+          { text: "Installation", link: "/installation" },
         ],
       },
     ],
