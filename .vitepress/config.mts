@@ -9,13 +9,17 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/images/logo.png",
-    nav: [{ text: "Home", link: "/" }],
+    nav: [
+      { text: "Home", link: "/" },
+      { text: "Website", link: "https://www.merklepay.com" },
+    ],
     sidebar: [
       {
         text: "Documentation",
         items: [
           { text: "Introduction", link: "/introduction" },
           { text: "Getting Started", link: "/getting-started" },
+          { text: "Contact us", link: "/contact-us" },
         ],
       },
     ],
@@ -24,5 +28,9 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/merkle-pay/merkle-pay" },
       { icon: "twitter", link: "https://x.com/merklepay" },
     ],
+    footer: {
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2025-present Merkle Pay",
+    },
   },
 });
