@@ -7,8 +7,8 @@ hero:
   text: Easily accept global crypto payments
   tagline: Effortless setup. Direct to your own wallet.
   image:
-    src: /logo.png
-    alt: VitePress
+    src: /images/logo.png
+    alt: Merkle Pay
   actions:
     - theme: brand
       text: Introduction
