@@ -8,7 +8,7 @@
 - **Web3 Wallet**:
   - **Solana:** Phantom, Solflare
 
-## Installation & Setup for <u>LOCAL DEVELOPMENT</u>
+## <u>LOCAL DEVELOPMENT</u> Setup
 
 1.  **Clone the Repository**
 
@@ -57,7 +57,7 @@
     make dev
     ```
 
-## Deployment for <u>PRODUCTION</u>
+## <u>PRODUCTION</u> Deployment
 
 0.  **Install docker**
 
