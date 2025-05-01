@@ -8,6 +8,9 @@ hero:
   tagline: Effortless setup. Direct to your own wallet.
   actions:
     - theme: brand
+      text: Introduction
+      link: /introduction
+    - theme: alt
       text: Getting started
       link: /getting-started
 
