@@ -84,8 +84,10 @@
     ```bash
      # Build images and start containers in detached mode
     make d-up
-     # To stop: make d-stop
-     # To view logs: make d-logs
+     # To stop:
+    make d-stop
+     # To view logs:
+    make d-logs
     ```
 4.  **Recreate everything after git pull**
 
