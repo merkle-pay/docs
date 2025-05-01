@@ -1,4 +1,4 @@
-# Getting started
+# Introduction
 
 **Accept stablecoin payments on Solana, Base, SUI, TRON, Polygon, Arbitrum, Optimism and more with ease—built for creators, indie hackers, and small businesses.**
 
