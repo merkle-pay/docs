@@ -27,6 +27,9 @@
   - `merkle-pay`, the path of which is `apps/merkle-pay`
   - `merkle-dashboard`, the path of which is `apps/merkle-dashboard`
 - `merkle-pay` is the core of the Merkle Pay project
+  - you can define a payment with a url attaching search params, such as amount, token, etc
+  - or, you can give people a link so that they can fill the form
+  - its apis handle almost all of the logic, because of security reasons
 - `merkle-dashboard` is a Reactjs SPA (single page application)
   - allow the owner to manage all payments
   - creating invoice with payment link and qr code
