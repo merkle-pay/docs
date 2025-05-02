@@ -41,6 +41,8 @@ export default defineConfig({
         items: [
           { text: "Introduction", link: "/introduction" },
           { text: "Getting Started", link: "/getting-started" },
+          { text: "Source Code Walkthrough", link: "/source-code-walkthrough" },
+          { text: "FAQ", link: "/faq" },
           { text: "Contact us", link: "/contact-us" },
         ],
       },
