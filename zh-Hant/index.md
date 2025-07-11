@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: 支援多個區塊鏈
-    details: 支援Solana、TRON、Base、Polygon等。低費率接收全球用戶的付款.
+    details: 支援Solana、Base、Polygon等。低費率接收全球用戶的付款.
   - title: 落袋為安
     details: 無需門檻，5分鐘設定，客戶直接付款到你的私人錢包
   - title: 強大的後台管理工具

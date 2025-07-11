@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Multi-Chain Support
-    details: Start with Solana, expand to TRON, Base, Polygon & more soon. Accept USDC/USDT globally on low-fee blockchains your users prefer.
+    details: Start with Solana, expand to Base, Polygon & more soon. Accept USDC/USDT globally on low-fee blockchains your users prefer.
   - title: Direct To Your Wallet
     details: Payments flow directly from payer to your personal wallet. No middleman, no waiting periods. You're always in control.
   - title: Powerful Control Dashboard

@@ -1,6 +1,6 @@
 # Introduction
 
-**Accept stablecoin payments on Solana, Base, SUI, TRON, Polygon, Arbitrum, Optimism and more with ease—built for creators, indie hackers, and small businesses.**
+**Accept stablecoin payments on Solana, Base, SUI, Polygon, Arbitrum, Optimism and more with ease—built for creators, indie hackers, and small businesses.**
 
 **Merkle Pay** is a non-custodial web platform enabling users to quickly set up payment pages for receiving stablecoins like USDT and USDC directly to their own wallets on **multiple blockchains**.
 
@@ -22,7 +22,6 @@ Merkle Pay aims to provide a seamless payment experience across high-throughput,
 - ⏳ **Arbitrum One** (Planned)
 - ⏳ **Optimism** (Planned)
 - ◻️ **Sui** (Future Consideration)
-- ◻️ **TRON** (Future Consideration)
 
 ## Supported Wallets & Interaction Methods
 
